@@ -85,9 +85,7 @@ public class ExamenFinal {
                         System.out.print("Solo se aceptan numeros impares");
                     }
                     
-                    break;
-                    
-                case 3:
+                    break;                                 
                     
             }
         } while (opcion < 4);
